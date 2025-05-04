@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[Click Here](https://snehsathi.vercel.app/)
+[SnehSathi](https://snehsathi.vercel.app/)
 
 ---
 
