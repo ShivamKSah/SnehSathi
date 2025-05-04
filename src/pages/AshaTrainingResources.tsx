@@ -1,4 +1,4 @@
-
+  
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Layout from '@/components/layout/Layout';
@@ -77,9 +77,9 @@ const AshaTrainingResources: React.FC = () => {
           description: 'Learn how to identify warning signs during pregnancy and when to refer to medical facilities.',
           type: 'video',
           url: '#',
-          thumbnailUrl: 'https://via.placeholder.com/300x200',
+          thumbnailUrl: '/Identifying Pregnancy Complications.jpg',
           durationMinutes: 12,
-          isCompleted: true,
+          isCompleted: true,  
           language: 'hindi'
         },
         {
@@ -97,7 +97,7 @@ const AshaTrainingResources: React.FC = () => {
           description: 'Guidelines for advising pregnant women about proper nutrition during pregnancy.',
           type: 'video',
           url: '#',
-          thumbnailUrl: 'https://via.placeholder.com/300x200',
+          thumbnailUrl: '/Maternal Nutrition.jpg',
           durationMinutes: 15,
           isCompleted: false,
           language: 'hindi'
@@ -108,7 +108,7 @@ const AshaTrainingResources: React.FC = () => {
           description: 'Emergency procedures and best practices for safe delivery.',
           type: 'video',
           url: '#',
-          thumbnailUrl: 'https://via.placeholder.com/300x200',
+          thumbnailUrl: '/Safe Delivery Practices.jpg',
           durationMinutes: 20,
           isCompleted: false,
           language: 'english'
