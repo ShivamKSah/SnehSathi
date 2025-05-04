@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-> Coming Soon! (Add your deployed link here once available)
+[Click Here](https://snehsathi.vercel.app/)
 
 ---
 
